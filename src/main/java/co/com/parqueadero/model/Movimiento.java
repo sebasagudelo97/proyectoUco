@@ -1,6 +1,9 @@
 package co.com.parqueadero.model;
 
+import lombok.Data;
+
 import java.time.LocalDate;
+
 
 public class Movimiento {
 
